@@ -46,7 +46,7 @@ class DtMahasiswa extends MX_Controller {
             'page_url'          => 'V_DtMahasiswa_Form',
             'page_information'  => array(
                 'page_title'        => $this->page_title,
-                'page_position'     => 'Tambah Data'
+                'page_position'     => 'Ubah Data'
             ),
             'page_data'         => array(
                 'data_mahasiswa'    => $this->M_DtMahasiswa->ReadMahasiswa($id)

@@ -1,6 +1,3 @@
-<!-- <div class="alert alert-danger" role="alert">
-<?php echo validation_errors(); ?>
-</div> -->
 <br/>
 <div class="row">
     <div class="col-md-8">
